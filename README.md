@@ -20,7 +20,6 @@
 ---
 
 ## 📌 Projects  
-- 🏢 **[Online Job Portal System](#)** – Spring Boot + MySQL + JWT  
 - 📱 **Time Table App** – Android (Java + SQLite)  
 - 🌐 **Smart Village Management System** – ASP.Net Web App  
 - 🔒 **SheGuard – Women Safety App** – Android with SOS + GPS  
